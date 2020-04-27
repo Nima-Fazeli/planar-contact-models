@@ -4,7 +4,9 @@
 
 [Empirical evaluation of common contact models for planar impact](https://ieeexplore.ieee.org/abstract/document/7989389)
 
-[Fundamental Limitations in Performance and Interpretability of Common Planar Rigid-Body Contact Models](https://link.springer.com/chapter/10.1007/978-3-030-28619-4_41)
+[Fundamental Limitations in Performance and Interpretability of Common Planar Rigid-Body Contact Models](https://arxiv.org/pdf/1710.04979.pdf)
+
+[Learning Data-Efficient Rigid-Body Contact Models: Case Study of Planar Impact](http://proceedings.mlr.press/v78/fazeli17a/fazeli17a.pdf)
 
 Implementation papers are documented in the model source codes.
 
